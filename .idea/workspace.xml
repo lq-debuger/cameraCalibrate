@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="camera" targetName="undistort" />
+      <config projectName="camera" targetName="undistortMap" />
+      <config projectName="camera" targetName="undistortMap1" />
+      <config projectName="camera" targetName="camera" />
+      <config projectName="camera" targetName="camerCalibrate" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a579f4cd-b696-4050-9ed0-b505446cc289" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1SxvH50cASPiET7tYSznvL60e4E" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/Debug/bin/data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/build/Debug/bin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.undistortMap">
+    <configuration name="camerCalibrate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="camera" TARGET_NAME="camerCalibrate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="camera" RUN_TARGET_NAME="camerCalibrate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="camera" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="camera" TARGET_NAME="camera" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="camera" RUN_TARGET_NAME="camera">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="undistort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="camera" TARGET_NAME="undistort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="camera" RUN_TARGET_NAME="undistort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="undistortMap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="camera" TARGET_NAME="undistortMap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="camera" RUN_TARGET_NAME="undistortMap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="undistortMap1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="camera" TARGET_NAME="undistortMap1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="camera" RUN_TARGET_NAME="undistortMap1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cameraCalibrateChessboardVideo (1)" type="ros_launch_run_config_type_id" factoryName="ROS Launch" temporary="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cameraCalibrateChessboardVideo (2)" type="ros_launch_run_config_type_id" factoryName="ROS Launch" temporary="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cameraCalibrateChessboardVideo" type="ros_launch_run_config_type_id" factoryName="ROS Launch" temporary="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.camera" />
+      <item itemvalue="CMake Application.camerCalibrate" />
+      <item itemvalue="CMake Application.undistort" />
+      <item itemvalue="CMake Application.undistortMap" />
+      <item itemvalue="CMake Application.undistortMap1" />
+      <item itemvalue="ROS Launch.cameraCalibrateChessboardVideo" />
+      <item itemvalue="ROS Launch.cameraCalibrateChessboardVideo (1)" />
+      <item itemvalue="ROS Launch.cameraCalibrateChessboardVideo (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ROS Launch.cameraCalibrateChessboardVideo (2)" />
+        <item itemvalue="ROS Launch.cameraCalibrateChessboardVideo (1)" />
+        <item itemvalue="ROS Launch.cameraCalibrateChessboardVideo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a579f4cd-b696-4050-9ed0-b505446cc289" name="Default Changelist" comment="" />
+      <created>1572517970726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572517970726</updated>
+      <workItem from="1572517985038" duration="3988000" />
+      <workItem from="1572571649334" duration="22933000" />
+      <workItem from="1572695389957" duration="135000" />
+      <workItem from="1572744567044" duration="8365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

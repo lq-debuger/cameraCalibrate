@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lq/CLionProjects/camera/src/board.cpp
+board.h
+/home/lq/CLionProjects/camera/src/board.h
+
+/home/lq/CLionProjects/camera/src/board.h
+opencv2/opencv.hpp
+/home/lq/CLionProjects/camera/src/opencv2/opencv.hpp
+iostream
+-
+
+/home/lq/CLionProjects/camera/src/camerCalibrate.cpp
+opencv2/opencv.hpp
+/home/lq/CLionProjects/camera/src/opencv2/opencv.hpp
+iostream
+-
+board.h
+/home/lq/CLionProjects/camera/src/board.h
+
